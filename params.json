@@ -1,6 +1,6 @@
 {
   "name": "Insecurity of Things",
   "tagline": "You bought it we break it",
-  "body": "### Welcome to Insecurity of Things\r\nCreating POC for IoT devices to promote increase IoT device security.\r\n\r\n## Projects ##\r\n\r\n[JackIt](https://github.com/insecurityofthings/jackit) -- MouseJack POC",
+  "body": "### Welcome to Insecurity of Things\r\nCreating POC for IoT devices to promote increase IoT security. Often it is necessary to demonstrate risk in order to create action. Unfortunately, these kinds of issues don't show up on Nessus scans, so we write exploits. Please use this code responsibly.\r\n\r\n## Projects ##\r\n\r\n[JackIt](https://github.com/insecurityofthings/jackit) -- MouseJack POC\r\n\r\n## Who ##\r\nWe work in the security industry and often it is necessary to demonstrate risk in order to create action. These implementations where written by [phikshun](https://github.com/phikshun) and [infamy](https://github.com/infamy).\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
